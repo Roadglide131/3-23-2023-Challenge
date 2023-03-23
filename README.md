@@ -24,6 +24,15 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## deployed site 
+## Github repository 
 
 https://github.com/Roadglide131/3-23-2023-Challenge.git
+
+## view live application at: 
+https://roadglide131.github.io/3-23-2023-Challenge/
+
+## Screenshot
+<img
+          src="assets\images\screenshot-horiseon-webpage.png"
+          alt="screenshot of application"
+        />
